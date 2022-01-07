@@ -1,0 +1,8 @@
+pip==21.0.1
+numpy==1.19.5
+scipy==1.5.4
+pandas==1.1.5
+Tensorflow == 1.14.0
+Keras==2.3.0
+progress-bar==8
+PySide2==5.15.2
