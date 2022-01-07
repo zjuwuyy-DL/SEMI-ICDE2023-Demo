@@ -1,5 +1,3 @@
-The million-size weather dataset and screencast video of SEMI are available at Releases (in the right side).
-
 # Title: SEMI: A Scalable and Extendible Generative Adversarial Imputation Toolbox
 
 ## Requirements
@@ -22,3 +20,6 @@ All of the original datasets can refer to the links:
 
 ## Usage
   - Run with "new_imputation_system.py".
+
+## Video
+The million-size weather dataset and screencast video of SEMI are available at Releases (in the right side).
