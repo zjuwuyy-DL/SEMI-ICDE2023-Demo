@@ -1,4 +1,4 @@
-# Title: SEMI: A Scalable and Extendible Generative Adversarial Imputation Toolbox
+# SEMI: A Scalable and Extendible Generative Adversarial Imputation Toolbox
 
 ## Requirements
 
