@@ -1,4 +1,4 @@
-# SEMI: A Scalable and Extendible Generative Adversarial Imputation Toolbox
+# An Efficient Generative Data Imputation Toolbox with Adversarial Learning
 
 ## Requirements
 
